@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richardson Antoine</h1>
 <h3 align="center">A passionate student Developer from New York</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/Antoine%20PC/Downloads/ggg.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/69/6952d2b5d6d4b7578caf3bb4301567c6.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devildog2001" alt="devildog2001" /></a> </p>
 
