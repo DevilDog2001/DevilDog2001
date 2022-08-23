@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devildog2001" alt="devildog2001" /></a> </p>
 
-- 📫 How to reach me **richardsonantoine2001@gmail.com**
-- 
-- 📫 How to reach me **https://richardsonantoine.tech/**
+- 📫 How to reach me Via Email: **richardsonantoine2001@gmail.com**
+- Personal Website: **https://richardsonantoine.tech/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
