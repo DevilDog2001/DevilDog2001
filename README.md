@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richardson Antoine</h1>
-<h3 align="center">A passionate student Developer from New York</h3>
+<h3 align="center">A passionate CS Major Student from New York</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devildog2001" alt="devildog2001" /></a> </p>
 
