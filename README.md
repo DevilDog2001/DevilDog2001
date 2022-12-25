@@ -24,7 +24,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites](https://github.com/DevilDog2001/osticket-prereqs)
-  - [osTicket: Installation ](https://github.com/DevilDog2001/post-install-config)
+  - [osTicket: Installation ](https://github.com/DevilDog2001/installation)
+  - - [osTicket: configurations ](https://github.com/DevilDog2001/configurations)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DevilDog2001/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DevilDog2001/-Active-Directory-within-Azure-VMs)
